@@ -13,4 +13,4 @@ answers[0] = prompt('Как вас зовут?', '');
 answers[1] = prompt('Сколько вам лет?', '');
 answers[2] = prompt('Где вы живете?', '');
 
-document.write(answers);
+console.log(answers);
